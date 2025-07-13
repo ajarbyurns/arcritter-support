@@ -2,7 +2,7 @@
 
 Welcome to the support page for **AR Pet**, your adorable augmented reality companion app.
 
-This repository hosts the official support site for the app via [GitHub Pages](https://ajarbyurns.github.io/arpet-support).
+This repository hosts the official support site for the app via [GitHub Pages](https://ajarbyurns.github.io/arcritter-support).
 
 ## 📱 About the App
 
@@ -13,7 +13,7 @@ Walk, play, and bond with your critter in your own space — right through your 
 
 If you’re having trouble using the app or have feedback, visit the support page:
 
-👉 [https://ajarbyurns.github.io/arpet-support](https://ajarbyurns.github.io/arpet-support)
+👉 [https://ajarbyurns.github.io/arcritter-support](https://ajarbyurns.github.io/arcritter-support)
 
 Or contact us at [ajarbyurns@gmail.com](mailto:ajarbyurns@gmail.com)
 
